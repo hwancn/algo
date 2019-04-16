@@ -1,5 +1,4 @@
-- 时间复杂度为O(n^2)
-```
+# 时间复杂度为O(n^2)
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         n = len(nums)
@@ -7,4 +6,4 @@ class Solution:
             for j in range(i+1, n):
                 if nums[i] + nums[j] == target:
                     return [i, j]
-```
+
