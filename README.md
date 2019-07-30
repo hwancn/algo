@@ -1,2 +1,2 @@
-# LeetCode
-Exercise on LeetCode in free time
+# Algorithm
+Exercise algorithm in free time
