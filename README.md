@@ -1,2 +1,2 @@
 # Algorithm
-Exercise algorithm in free time
+Exercise in free time
