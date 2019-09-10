@@ -11,6 +11,8 @@ def bubble_sort(ary) -> list:
     :return: 返回列表
     """
     length = len(ary)
+    if length == 0 or length == 1:
+        return ary
     for i in range(length):
         for j in range(1, length-i):
             if ary[j-1] > ary[j]:
@@ -25,6 +27,8 @@ def bubble_sort2(ary) -> list:
     :return: 返回列表
     """
     length = len(ary)
+    if length == 0 or length == 1:
+        return ary
     for i in range(length):
         made_swap = False
         for j in range(1, length-i):
@@ -44,6 +48,8 @@ def bubble_sort3(ary) -> list:
     :return: 返回列表
     """
     length = len(ary)
+    if length == 0 or length == 1:
+        return ary
     k = length
     for i in range(length):
         made_swap = False
