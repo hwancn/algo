@@ -30,6 +30,8 @@ def shell_sort(ary) -> list:
     :return: 排序之后的列表
     """
     length = len(ary)
+    if length == 0 or length == 1:
+        return ary
     gap = length // 2
     while gap > 0:
         for i in range(gap, length):
