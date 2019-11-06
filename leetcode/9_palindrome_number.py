@@ -3,6 +3,7 @@
 https://leetcode-cn.com/problems/palindrome-number/
 回文数的判断，需要考虑大值溢出
 
+思路参考：https://segmentfault.com/a/1190000000453441
 分别取高位和低位来判断
 例如：
 95349 % 1000 => 95349 % 10^4 = 5349
