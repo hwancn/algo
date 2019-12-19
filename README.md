@@ -9,3 +9,5 @@
 206 链表反转 | [链表](https://leetcode-cn.com/tag/linked-list/) | [原题](https://leetcode-cn.com/problems/reverse-linked-list/) | [record](https://github.com/Hwan-But/algo/tree/master/leetcode/206-reverse-linked-list)
 704 二分查找 | [二分查找](https://leetcode-cn.com/tag/binary-search/) | [原题](https://leetcode-cn.com/problems/binary-search/) | [record](https://github.com/Hwan-But/algo/tree/master/leetcode/704-binary-search)
 69 平方根 | [二分查找](https://leetcode-cn.com/tag/binary-search/) | [原题](https://leetcode-cn.com/problems/sqrtx/) | [record](https://github.com/Hwan-But/algo/tree/master/leetcode/69-sqrt)
+300 最长递增子序列 | [二分查找](https://leetcode-cn.com/tag/binary-search/) | [原题](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [record](https://github.com/Hwan-But/algo/tree/master/leetcode/300-longest-incr-subsequence)
+153 旋转数组最小数字 | [二分查找](https://leetcode-cn.com/tag/binary-search/) | [原题](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | [record](https://github.com/Hwan-But/algo/tree/master/leetcode/153-find-minimum-in-rotated-sorted-array)
