@@ -12,3 +12,4 @@
 300 最长递增子序列 | [二分查找](https://leetcode-cn.com/tag/binary-search/) | [原题](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [record](https://github.com/Hwan-But/algo/tree/master/leetcode/300-longest-incr-subsequence)
 153 旋转数组最小数字 | [二分查找](https://leetcode-cn.com/tag/binary-search/) | [原题](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | [record](https://github.com/Hwan-But/algo/tree/master/leetcode/153-find-minimum-in-rotated-sorted-array)
 154 旋转数组最小数字 | [二分查找](https://leetcode-cn.com/tag/binary-search/) | [原题](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [record](https://github.com/Hwan-But/algo/tree/master/leetcode/154-find-minimum-in-rotated-sorted-array-ii)
+287 寻找重复数 | [二分查找](https://leetcode-cn.com/tag/binary-search/) | [原题](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [record](https://github.com/Hwan-But/algo/tree/master/leetcode/287-find-the-duplicate-number)
