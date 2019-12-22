@@ -14,3 +14,4 @@
 154 旋转数组最小数字 | [二分查找](https://leetcode-cn.com/tag/binary-search/) | [原题](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [record](https://github.com/Hwan-But/algo/tree/master/leetcode/154-find-minimum-in-rotated-sorted-array-ii)
 287 寻找重复数 | [二分查找](https://leetcode-cn.com/tag/binary-search/) | [原题](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [record](https://github.com/Hwan-But/algo/tree/master/leetcode/287-find-the-duplicate-number)
 1095 山脉数组中查找目标值 | [二分查找](https://leetcode-cn.com/tag/binary-search/) | [原题](https://leetcode-cn.com/problems/find-in-mountain-array/) | [record](https://github.com/Hwan-But/algo/tree/master/leetcode/1095-find-in-mountain-array)
+658 寻找有序数组中最接近的K个值 | [二分查找](https://leetcode-cn.com/tag/binary-search/) | [原题](https://leetcode-cn.com/problems/find-k-closest-elements/) | [record](https://github.com/Hwan-But/algo/tree/master/leetcode/658-find-k-closest-elements)
